@@ -1,0 +1,40 @@
+.Property_card_wrapper {
+    display: block;
+    width: 32%;
+    margin-bottom: 2.5rem;
+    background-color: #d7f1ff6e;
+}
+.Property_card_wrapper a{
+    text-decoration: none;
+}
+
+.Property_card_image, .Property_card_image img{
+    width: 100%;
+
+}
+
+.Property_card_details{
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    color: #282c34;
+}
+
+.Property_card_title{
+
+}
+
+.Property_card_address{
+    font-style: italic;
+
+}
+
+.Property_card_price{
+
+}
+
+.Property_card_edit{
+    background-color: #00d4ff;
+    text-align: center;
+    margin-left: 1rem;
+    margin-bottom: 1rem;;
+}
